@@ -1,8 +1,11 @@
-### Hi there 👋
+### Hello 👋
 
-#### I am a web developer, here are the main techs used in my repositories:
+#### I am a web/mobile developer, currently learning React Native:
 
-<div>
+<br />
+
+
+<div style="padding-: 5rem">
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -16,16 +19,6 @@
 
 <br />
 
-- 🔭 I’m currently working on getting better and finding greater dev experiences.
-
-<br />
-
- <details><summary> 📫 Topics I am interested in, currently learning or I'd like to learn next: </summary>
-  
-  - more advanced front-back stuffs...
-  - data
-  - blockchain
-
-  
-  </details>
-
+- 🔭 I would like to work as a developer
+- I like coding, and learning new stuffs. <br />
+- Don't hesitate to contact me if you want to discuss
