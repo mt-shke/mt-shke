@@ -1,6 +1,6 @@
 ### Hello 👋
 
-#### I am a web/mobile developer, currently learning React Native:
+#### I am a web/mobile developer
 
 <br />
 
