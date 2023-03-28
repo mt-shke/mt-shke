@@ -15,6 +15,8 @@
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+          
 </div>
 
 <br />
@@ -22,3 +24,7 @@
 - 🔭 I would like to work as a developer
 - I like coding, and learning new stuffs. <br />
 - Don't hesitate to contact me if you want to discuss
+
+<a href='https://www.linkedin.com/in/michel-tcha-9b9785222/'><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+
+- https://micheltcha.com/
