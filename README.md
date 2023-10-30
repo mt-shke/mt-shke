@@ -1,5 +1,7 @@
 ### Hello 👋
 
 - I like coding, and learning new stuffs. <br />
-- https://micheltcha.com/
-- micheltt.dev@gmail.com
+
+- You can reach me at: micheltt.dev@gmail.com
+  
+- My website: https://micheltcha.com/
